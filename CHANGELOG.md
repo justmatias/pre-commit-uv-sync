@@ -1,6 +1,15 @@
 # CHANGELOG
 
 
+## v7.0.2 (2026-07-09)
+
+### Bug Fixes
+
+- Rename hookpin pre-commit hook and remove unused coverage dependency
+  ([#12](https://github.com/justmatias/hookpin/pull/12),
+  [`b0dd064`](https://github.com/justmatias/hookpin/commit/b0dd0646cb24df93906a391abe919926bc08c298))
+
+
 ## v7.0.1 (2026-05-29)
 
 ### Bug Fixes
