@@ -1,5 +1,5 @@
 - id: hookpin
-  name: Sync uv additional dependencies
+  name: hookpin
   language: python
   entry: hookpin
   pass_filenames: false
